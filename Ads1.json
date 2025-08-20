@@ -1,13 +1,28 @@
-Wobr/hvYTe+NZQm92ecBzkKJlYzqwPUgnbgBibdcN7laOAYvwj4qUPckoLV3TsDLP0x1TZSHDTvl
-ts+a7EfnFkQqUOAroVuBpiyv1srxy0IJpM27lRanDsKZYlCpmLLQxQ6HbI6kMwrS3fyF43Yhq29g
-BxuT7kTPSwcVNvgBL+MGUnggBbnGE/u5u50r3YpCxyZpjKx/zeSB89rHpBgP0RkJPHtSRy9to1r2
-y/+rrKvZ4vT/j5ccU8Tm2RKWZ03iPoZIc4MdAes7Byw4ZaycptSouxqTL40xcTPSj+TzlEE/o68y
-AhbKZ+bVpFkkR3G9Dft5LOOXyMML4BcFoc8NtslOEgCyO6a9HVNFUmqXRV+7txgh7i/IdpWulLMN
-wwk5FY80eZrW8vw7oFyl1jBptiRZ3ggF5s5v9PE7Eq23xiPai6lC7bxxJHO8h9c/bmbMDhzKQO3P
-eOag4hxprAEICoJmsUiOx/LQj5aJhPcAPH4tspaPV5n2TXs5IKJeXLziXdzDWk7IvAo0e7/N8wPB
-8dmj8Dld6z4SEDvX0rP0zr9Ikw8Pcx611sgWKuRFRlXWxShY4H3JO0K2huLexJ1AlqB5vMzITRZi
-3f2tImA08j7Kba4CVeaytdtPbGHgjPVSdPjncebbvxGBR5JrQgy6vUrXPtURmM13NyV3bOWy5Dzd
-+jZQWGLhDr82sT4LeCVN4GuCBoAF9WPMKpcmzYiFGf80G+vBhPp0KiwmcYk0ZWWtVICpzGqOrOUT
-i773lpahCbPgG96q1yY+FeXI0e1JvZNRMJdL5/rvafO8ecf8abzaCUJRWqan4L8CXJQuAhcnwGtI
-Srg3e8XJm0nnrVhDtJI7Cl//M6SRi7NIvTIp/t32vyx1DA9Am1xxLlqW4Nege+LaNzL31883+aq1
-GHQB0Bwt15Y+/7FvXZBrg5eFDQY=
+{
+  "dialogConfig": {
+    "enabled": true,
+    "version": "2.0",
+    "mandatory": false,
+    "update_url": "https://t.me/androidmod_ar",
+    "title": "Update Availablr!",
+    "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
+    "socialLinks": [
+      {
+        "name": "facebook",
+        "url": "https://t.me/androidmod_ar"
+      },
+      {
+        "name": "twitter",
+        "url": "https://t.me/androidmod_ar"
+      },
+      {
+        "name": "instagram",
+        "url": "https://t.me/androidmod_ar"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://t.me/androidmod_ar"
+      }
+    ]
+  }
+}
