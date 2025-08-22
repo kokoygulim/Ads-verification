@@ -1,7 +1,7 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "versionCode": "0.0",
+    "versionCode": "416",
     "mandatory": true,
     "update_url": "https://t.me/androidmod_ar",
     "title": "Update Availablr!",
