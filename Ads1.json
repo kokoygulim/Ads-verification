@@ -8,10 +8,13 @@
     "message": "A new version of the app has been released. Please update now to take advantage to use the app in offline mode. ",
     "socialLinks": [
       {
-        "name": "whatsapp",
+        "name": "facebook",
         "url": "https://t.me/androidmod_ar"
       },
-      
+      {
+        "name": "twitter",
+        "url": "https://t.me/androidmod_ar"
+      },
       {
         "name": "instagram",
         "url": "https://t.me/BoatingPh"
