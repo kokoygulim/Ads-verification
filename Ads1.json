@@ -1,6 +1,6 @@
 {
   "dialogConfig": {
-    "enabled": true,
+    "enabled": false,
     "appVersionCode": "2.0",
     "mandatory": true,
     "update_url": "https://t.me/androidmod_ar",
